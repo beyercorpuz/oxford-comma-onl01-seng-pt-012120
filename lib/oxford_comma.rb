@@ -1,7 +1,7 @@
 
  def oxford_comma(array)
 ["a","b","c"].join(":-)") 
-=> "a :-) b :-) c"
-  "abc"
+=>"a :-) b :-) c"
+  
  end
  
