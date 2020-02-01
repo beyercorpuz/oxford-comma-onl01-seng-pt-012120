@@ -6,11 +6,12 @@ if array.length==2
   array.join(" and ")
 elsif array.length > 2
   binding.pry
+array[-1].insert(0, "hello ")
 end
 end
-exitarray[-1].insert(0, "hello ")
 
 
 
-array_instance.insert(index,object)
+
+
 
