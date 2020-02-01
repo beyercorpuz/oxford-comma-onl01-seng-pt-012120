@@ -5,7 +5,7 @@ require "pry"
 if array.length==2
   array.join(" and ")
 elsif array.length > 2
-  binding.pry
+ # binding.pry
 array[-1].insert(0, "hello ")
 end
 end
